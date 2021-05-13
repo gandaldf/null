@@ -1,5 +1,7 @@
 forked from [guregu/null](https://github.com/guregu/null)
 
+`go get -u github.com/gandaldf/null/v4`
+
 ## null [![GoDoc](https://godoc.org/github.com/guregu/null?status.svg)](https://godoc.org/github.com/guregu/null) [![CircleCI](https://circleci.com/gh/guregu/null.svg?style=svg)](https://circleci.com/gh/guregu/null)
 `import "gopkg.in/guregu/null.v4"`
 
